@@ -104,15 +104,17 @@ def q_learning(env,
 
 ## OUTPUT
 ### Optimal policy, optimal value function, and success rate for the optimal policy
-<img width="767" height="726" alt="image" src="https://github.com/user-attachments/assets/c38f7233-c927-4ce5-a30e-4f367c0585c2" />
-<img width="735" height="648" alt="image" src="https://github.com/user-attachments/assets/a2c5fbb4-a5f9-480f-b000-57ee3bea9bd7" />
-<img width="672" height="135" alt="image" src="https://github.com/user-attachments/assets/c0d74a91-0f83-40eb-976e-8d3cc5fdfa2a" />
-<img width="725" height="649" alt="image" src="https://github.com/user-attachments/assets/6249043e-3c02-493e-9d75-295ae536fd4a" />
-<img width="682" height="135" alt="image" src="https://github.com/user-attachments/assets/62bf3915-72bd-4208-9a94-56d2b34d8277" />
+<img width="314" height="116" alt="image" src="https://github.com/user-attachments/assets/efc9bb26-b575-4693-af15-148e07ecfaeb" />
+<img width="491" height="483" alt="image" src="https://github.com/user-attachments/assets/36ca531a-35cd-486e-abe4-a1367eb24d95" />
+<img width="467" height="121" alt="image" src="https://github.com/user-attachments/assets/6a4ab5a9-3d3e-4558-9cdc-5176b098a70b" />
+<img width="329" height="300" alt="image" src="https://github.com/user-attachments/assets/4f0b5dde-4a31-4604-be68-fe384326b0ed" />
+<img width="656" height="656" alt="image" src="https://github.com/user-attachments/assets/8b7281d2-6025-46b3-8a9f-5f4718f84a1b" />
+<img width="309" height="300" alt="image" src="https://github.com/user-attachments/assets/3736e7bd-f42f-4810-bf56-392f780a73ec" />
+<img width="660" height="660" alt="image" src="https://github.com/user-attachments/assets/2e90bd44-ea7a-43d0-a333-925858e37e5a" />
 
 ### Plot comparing the state value functions of Monte Carlo method and Q-learning
-<img width="1309" height="587" alt="image" src="https://github.com/user-attachments/assets/8e4644c5-2e51-4cc8-8125-f6284ac6510f" />
-<img width="1305" height="583" alt="image" src="https://github.com/user-attachments/assets/3f63af61-fe45-42c1-bd99-5add3eecc402" />
+<img width="875" height="482" alt="image" src="https://github.com/user-attachments/assets/394ba32e-7b07-447c-a791-97d77c9c4a71" />
+<img width="880" height="480" alt="image" src="https://github.com/user-attachments/assets/b90b377a-b928-4bfa-8950-b6dffc05e47c" />
 
 
 ## RESULT
